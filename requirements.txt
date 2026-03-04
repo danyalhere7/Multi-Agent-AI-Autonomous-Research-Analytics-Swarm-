@@ -1,0 +1,15 @@
+langchain
+langchain-ollama
+langchain-core
+langchain-community
+langgraph
+duckduckgo-search
+faiss-cpu
+numpy
+pandas
+matplotlib
+plotly
+streamlit
+seaborn
+httpx
+pydantic
